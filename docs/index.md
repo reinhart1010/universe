@@ -1,9 +1,8 @@
 # Universe Design System
 
-## What's inside?
+## Basics
 
-There are 3 basic components.
++ [Targets](basics/targets.md)
 
-+ **Layout** tells where you should (not) place things.
-+ **Color** could be part of your brand, information, or action.
-+ **Interaction** highlights on how people would act and react.
+## Components
++ [Typography](components/typography.md)
