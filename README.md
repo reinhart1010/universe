@@ -1,8 +1,10 @@
-## Universe Design System
+![2020 Design System](https://user-images.githubusercontent.com/17312341/69032941-5761c080-0a10-11ea-9435-21a46c29b10a.png)
 
 [Documentation](index.html)
 
 ### About
+The 2020 Design System, codenamed Universe, is a design system that is based on other design systems. Its purpose is to adapt to standardize common design patterns as well as to adapt a wide range of **Design Products**.
+
 Universe is divided into two main components: the **User Interface (UI)** and the **User Experience (UX)**. While the **User Interface** component serves as the reference implementation of the Universe Design System, the **User Experience** component consists of general interaction patterns and practices that can be implemented where the UI could not be further enforced on certain platforms (e.g. Linux apps which uses the GTK toolkit).
 
 ### Design Principles
@@ -12,8 +14,8 @@ There is a general reason behind the release and implementation of design system
 #### 2. Integrated and Interoperable
 The Universe Design System recognizes multiple **design products** as a media of communication. These design products may either come in
 
-+ **Physical Form**: signages, billboard, documents, etc.
-+ **Virtual Form**: software, applications, multimedia contents, social media posts, etc.
++ **Physical Forms**: signages, billboard, documents, etc.
++ **Virtual Forms**: software, applications, multimedia contents, social media posts, etc.
 
 Some of the design products (primarily physical and display) do not provide a direct **medium of feedback**. For example, you cannot perform a click on a printed hyperlink on paper to visit a website, since the paper itself is not designed to allow transfers of electronic data. The Universe Design System aims to resolve certain interoperability issues by standardizing **Read-Only and Read-Write interactions**, as well as providing an integration between design products to ensure a consistent and coherent experience between them.
 
